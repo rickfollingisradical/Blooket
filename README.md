@@ -1,6 +1,6 @@
 # Blooket Hack
 
-**The Blooket Hack provided by [vantro](https://twitter.com/vantroiscrazy)**
+**The Blooket Hack provided by [Jude](https://twitter.com/judergideon)**
 
 Why you should use this tool:
 - Always working.
