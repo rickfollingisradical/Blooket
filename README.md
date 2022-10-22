@@ -12,7 +12,7 @@ All of the hacks are sorted into the gamemode they can be used in. If you encoun
 
 ## Current Version
 
-Blooket Hack v1.0
+Blooket Hack v2.0
 
 - **View all the changelogs [here](https://github.com/vantr-o/Blooket/blob/main/CHANGELOG.md).**
 
