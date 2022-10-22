@@ -16,6 +16,10 @@ Blooket Hack v1.0
 
 - **View all the changelogs [here](https://github.com/vantr-o/Blooket/blob/main/CHANGELOG.md).**
 
+## How to Use
+- Follow the video tutorial below, no audio.
+[Screencast from 2022-10-22 03-41-18.webm](https://user-images.githubusercontent.com/113489420/197330065-5084e1d9-6127-4b6b-9bd8-3c25f532e047.webm)
+
 # Important
 
 Blooket is now banning people who are using hacks.
