@@ -1,3 +1,5 @@
+# Support Discord Server: https://discord.gg/89kVaeGr9m
+
 # Blooket Hack
 
 **The Blooket Hack provided by [Jude](https://twitter.com/judergideon)**
