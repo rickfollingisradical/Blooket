@@ -32,4 +32,4 @@ Blooket is now banning people who are using hacks.
 ## PoC
 ![image](https://user-images.githubusercontent.com/73669084/148287287-44fd3b5f-43d9-49be-bf9f-7d445d366bfd.png)
 ![image](https://user-images.githubusercontent.com/73669084/148287302-8693c202-6968-4cf3-811f-05cbd0fd8b2f.png)
-![image](https://user-images.githubusercontent.com/73669084/148287313-30793b91-b0d1-430b-879b-398a23b9b197.png)
+![image](https://user-images.githubusercontent.com/113489420/197427565-7c0e84e9-8c72-4f63-96b2-10f5f14e19b2.png)
