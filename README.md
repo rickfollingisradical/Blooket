@@ -1,4 +1,4 @@
-# Support Discord Server: https://discord.gg/89kVaeGr9m
+# Support Discord Server: https://discord.gg/UCHtVM4A
 
 # Blooket Hack
 
