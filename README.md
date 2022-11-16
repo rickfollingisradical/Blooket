@@ -14,6 +14,10 @@ For support, create an [issue](https://github.com/Jude-Gideon/Blooket/issues/new
 
 ## Usage
 
+
+https://user-images.githubusercontent.com/113489420/202098239-6083a948-1016-4ee1-8106-6452acb3e5a0.mp4
+
+
 1. Go to Blooket
 
 2. Push CTRL + SHIFT + J
