@@ -11,6 +11,7 @@ This repo contains hacks for the popular game [Blooket](https://blooket.com/)!
 
 For support, create an [issue](https://github.com/Jude-Gideon/Blooket/issues/new) or join our [Discord](https://discord.gg/QSYJ7vJqJ3).
 
+> These should always be working, let me know of any issues.
 
 ## Usage
 
