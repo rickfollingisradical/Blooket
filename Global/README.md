@@ -20,7 +20,7 @@ Note: **This cheat also includes adding max xp for the day**
 
 # floodGame.js
 
-### Get the script from the file [floodGame.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/global/floodGame.js)
+### Get the script from the file [floodGame.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/Global/floodGame.js)
 
 # openPacks.js
 
