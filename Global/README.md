@@ -20,7 +20,7 @@ Note: **This cheat also includes adding max xp for the day**
 
 # antiBan.js
 
-### Get the script from the file [antiBan.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/global/antiBan.js)
+### Get the script from the file [antiBan.js](https://raw.githubusercontent.com/Jude-Gideon/Blooket/main/Global/antiBan.js)
 
 # floodGame.js
 
